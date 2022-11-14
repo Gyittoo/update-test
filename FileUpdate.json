@@ -17,12 +17,24 @@
          "url": "https://raw.githubusercontent.com/sansoe2022/test-online-update/main/us.ovpn"
       },
 {
-         "name": "SG Free",
-         "url": "https://raw.githubusercontent.com/Gyittoo/update-test/main/SG_D_T_03(2).ovpn"
-}
+         "name": "JP Free Server-1",
+         "url": "https://raw.githubusercontent.com/Gyittoo/update-test/main/JP%20public-vpn-193095824.ovpn"
+},
+{
+         "name": "Jp Free Server-2",
+         "https://raw.githubusercontent.com/Gyittoo/update-test/main/JP%20public-vpn-37095833.ovpn"
+      },
+{
+         "name": "SG Free Server-1",
+         "https://raw.githubusercontent.com/Gyittoo/update-test/main/SG%20NuttyImmenseHour095802.ovpn"
+      },
+{
+         "name": "SG Free Server-1",
+         "https://raw.githubusercontent.com/Gyittoo/update-test/main/SG%20PotableWrongPower085829.ovpn"
+      },
 
    ],
-"message":"🚀 Config version - 2 \n📆 Latest update - 07/11/2022\n \n📌What's new 🔥 \n• Added Singapore 3🇸🇬 FREE\n• Added Thailand 1🇹🇭 FREE\n• Added United state 1🇺🇸 FREE\n • Added  Indian 1🇳🇪 FREE\n •Added Unlimited 2🇸🇬 FREE\n• Added Unlimited 2🇺🇸 \n \n📌VIP account 🇹🇭 & 🇸🇬 \n• 1 month - 50 baht 💰 \n• Data transfer - Unlimited✅ \n• Unlimited time - Yes💯 \n• 1 Device - 1 account🔒 \nContact me👤👇\nhttps://m.me/sansoe2021  \n \nThank you for support us💙",
+"message":"🚀 Config version - 2 \n📆 Latest update - 014/11/2022\n \n📌What's new 🔥 \n• Added Singapore 3🇸🇬 FREE\n• Added Thailand 1🇹🇭 FREE\n• Added United state 1🇺🇸 FREE\n • Added  Indian 1🇳🇪 FREE\n •Added Unlimited 2🇸🇬 FREE\n• Added Unlimited 2🇺🇸 \n \n📌VIP account 🇹🇭 & 🇸🇬 \n• 1 month - 50 baht 💰 \n• Data transfer - Unlimited✅ \n• Unlimited time - Yes💯 \n• 1 Device - 1 account🔒 \nContact me👤👇\nhttps://m.me/sansoe2021  \n \nThank you for support us💙",
    "title":"Do you want to update?",
-   "version": 2
+   "version": 3
 }
